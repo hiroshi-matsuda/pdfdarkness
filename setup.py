@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 setup(
     author="Hiroshi Matsuda",
     author_email="hmtd223@gmail.com",
-    description="A command line tool for caluclating the darkness of the pages of PDF files",
+    description="A command line tool for calculating the darkness of the pages of PDF files",
     entry_points={
         "console_scripts": [
             "pdfdarkness = pdfdarkness.measure_darkness:main",
