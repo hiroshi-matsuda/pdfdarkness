@@ -8,7 +8,7 @@ This library is meant to be used with [`pdfmask`](https://github.com/hiroshi-mat
 ### Python libraries
 
 ```console
-pip install pdfdarkness pdfmask
+$ pip install pdfdarkness pdfmask
 ```
 
 ### Native libraries
