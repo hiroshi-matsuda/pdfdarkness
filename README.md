@@ -1,5 +1,5 @@
 # pdfdarkness
-A command line tool for caluclating the darkness of the pages of PDF files.
+A command line tool for calculating the darkness of the pages of PDF files.
 Darkness is a scale from `pure_white_page=0.0` to `pure_black_page=1.0`.
 This library is meant to be used with [`pdfmask`](https://github.com/hiroshi-matsuda/pdfmask) for calculating the darkness of the margin spaces of each page in PDF files.
 
