@@ -45,7 +45,7 @@ pdfdarkness target-pdf-path1 [target-pdf-path2 [...]]
 ```
 
 The output format is the `tab separated value` and each record has three fields:
-- PDF file name
+- PDF file path
 - page number
 - darkness
 
